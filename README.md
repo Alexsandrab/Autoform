@@ -92,7 +92,7 @@ Residência de Software - Grupo Cesar 1 - AutoForm
   > cd nome-da-pasta
   
   6. Clone o repositorio na pasta 
-  > https://github.com/gbarros26/AutoForm
+  > https://github.com/Grupo-Cesar-1/Autoform
   
   7. Execute a aplicação
   > npm start
