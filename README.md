@@ -76,23 +76,35 @@ Residência de Software - Grupo Cesar 1 - AutoForm
 
  # Instalação e configuração
   
-  1. Instale o Node.js
-  > https://nodejs.org/en/
+  Passo a passo:
+
+1. Clone este repositório 
+```
+git clone https://github.com/marcelle-mascarenhas/codigo-morse.git
+```
+2. Dentro da pasta back-end, recrie o ambiente virtual
+```
+python -m venv venv
+```
+3. Ative o ambiente virtual
+```
+.\venv\scripts\activate
+```
+4. Instale o Flask
+```
+pip install flask
+```
+5. Comando para executar a aplicação
+```
+ flask run
+ ```
+6. Dentro da pasta front-end, instale as dependências
+```
+Yarn
+```
+7. Comando pra executar a aplicação
+```
+Yarn start
+```
   
-  2. Abra o terminal de comando 
-  > Windows + R e digite cmd
   
-  3. Crie um diretorio
-  > mkdir nome-do-diretorio
-  
-  4. Instale o react
-  > create-react-app nome-da-pasta
-  
-  5. Acesse a sua pasta 
-  > cd nome-da-pasta
-  
-  6. Clone o repositorio na pasta 
-  > https://github.com/Grupo-Cesar-1/Autoform
-  
-  7. Execute a aplicação
-  > npm start
