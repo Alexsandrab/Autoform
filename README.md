@@ -80,7 +80,7 @@ Residência de Software - Grupo Cesar 1 - AutoForm
 
 1. Clone este repositório 
 ```
-git clone https://github.com/marcelle-mascarenhas/codigo-morse.git
+git clone https://github.com/Grupo-Cesar-1/Autoform
 ```
 2. Dentro da pasta back-end, recrie o ambiente virtual
 ```
@@ -100,11 +100,11 @@ pip install flask
  ```
 6. Dentro da pasta front-end, instale as dependências
 ```
-Yarn
+yarn
 ```
 7. Comando pra executar a aplicação
 ```
-Yarn start
+yarn start
 ```
   
   
